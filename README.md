@@ -1,4 +1,4 @@
-# Project Name - Jenkins CI/CD Pipeline
+# Semaca Sentinal - Jenkins CI/CD Pipeline
 
 ## Introduction
 This repository contains the Jenkins CI/CD pipeline for Semaca Sentinal. The pipeline automates the build, testing, and release process, ensuring consistent and reliable software delivery.
