@@ -5,6 +5,7 @@ This repository contains the Jenkins CI/CD pipeline for Project Name. The pipeli
 
 ## Pipeline Overview
 The pipeline consists of the following stages:
+![image](https://github.com/hlviones/semaca_sentinal_jenkins/assets/83133751/8a88a721-03d9-4c11-8db3-ce8d7de72ac1)
 
 1. **Sanity Test** - Runs a set of basic tests to ensure the system is functioning correctly. It validates essential functionalities and dependencies.
 
