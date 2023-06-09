@@ -38,11 +38,6 @@ To run the CI/CD pipeline on Jenkins, follow these steps:
 ## Additional Customization
 Feel free to customize the pipeline to suit your specific project needs. You can modify the existing stages, add new stages, or integrate additional tools and testing frameworks as required.
 
-## Contributing
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 We would like to acknowledge the contributions of the entire development team in creating and maintaining this Jenkins CI/CD pipeline. Their hard work and dedication have significantly improved our software delivery process.
